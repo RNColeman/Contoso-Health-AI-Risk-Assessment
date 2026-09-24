@@ -1,0 +1,4 @@
+Risk            Likelihood        Impact        Score
+Hallucinations  4                 5             20
+PHI Exposure    3                 5             15
+PromptInjection 4                 3             12
